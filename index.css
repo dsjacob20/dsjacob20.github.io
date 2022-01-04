@@ -1,0 +1,51 @@
+
+body {
+    background-color:black;
+    height:auto;
+    }
+    
+    .first {
+    background-image: url("top.gif");
+    width: 1000px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .second {
+    background-color:blue; 
+    width: 980px;
+    height: 25px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .third {
+    background-color: #404086; 
+    width: 960px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+    }
+    
+    .fourth {
+    background-color: #003400; 
+    width: 980px;
+    height: 17px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align:center;
+    }
+    
+    p.special{
+    background-color: #000;
+    text-align: center;
+    }
+    
+    
+    
+    
